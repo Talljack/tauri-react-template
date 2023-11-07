@@ -4,7 +4,7 @@ Tauri, React, Vite and TypeScript Application template for developer.
 ## Usage
 
 ```bash
-# Use this template
+# Use this template to create a new repository
 
 # Install dependencies
 bun install
