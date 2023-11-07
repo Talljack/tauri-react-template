@@ -3,7 +3,7 @@
   "build": {
     "beforeBuildCommand": "bun run build",
     "beforeDevCommand": "bun run dev",
-    "devPath": "http://localhost:3000",
+    "devPath": "http://localhost:5173",
     "distDir": "../build"
   },
   "package": {
